@@ -1,11 +1,11 @@
 import './App.css'
-import ToggleNumbers from "./components/ToggleNumbers.jsx";
+import ColorSwitcher from "./components/ColorSwitcher.jsx";
 
 function App() {
 
   return (
       <>
-        <ToggleNumbers />
+        <ColorSwitcher />
       </>
   )
 }
