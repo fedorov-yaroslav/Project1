@@ -1,11 +1,11 @@
 import './App.css'
-import ClickList from "./components/ClickList.jsx";
+import ToggleNumbers from "./components/ToggleNumbers.jsx";
 
 function App() {
 
   return (
       <>
-        <ClickList />
+        <ToggleNumbers />
       </>
   )
 }
