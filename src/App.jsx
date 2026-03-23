@@ -1,11 +1,11 @@
 import './App.css'
-import ColorSwitcher from "./components/ColorSwitcher.jsx";
+import Drill3 from "./components/Drill3.jsx";
 
 function App() {
 
   return (
       <>
-        <ColorSwitcher />
+        <Drill3 />
       </>
   )
 }
